@@ -1,0 +1,45 @@
+Exception parsing pv from info: 'depth 1 seldepth 3 multipv 1 score cp 33 nodes 22 nps 11000 hashfull 0 tbhits 0 time 2 pv e2e4', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 2 seldepth 4 multipv 1 score cp 33 nodes 45 nps 22500 hashfull 0 tbhits 0 time 2 pv e2e4 e7e5', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 3 seldepth 5 multipv 1 score cp 33 nodes 71 nps 35500 hashfull 0 tbhits 0 time 2 pv e2e4 e7e5 g1f3', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 4 seldepth 6 multipv 1 score cp 33 nodes 98 nps 49000 hashfull 0 tbhits 0 time 2 pv e2e4 e7e5 g1f3 g8f6', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 5 seldepth 8 multipv 1 score cp 33 nodes 132 nps 66000 hashfull 0 tbhits 0 time 2 pv e2e4 e7e5 g1f3 g8f6 d2d4', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 6 seldepth 8 multipv 1 score cp 33 nodes 176 nps 88000 hashfull 0 tbhits 0 time 2 pv e2e4 e7e5 g1f3 g8f6 d2d4 f6e4', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 7 seldepth 10 multipv 1 score cp 33 nodes 234 nps 117000 hashfull 0 tbhits 0 time 2 pv e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f1d3 d7d5', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 8 seldepth 15 multipv 1 score cp 33 nodes 783 nps 391500 hashfull 0 tbhits 0 time 2 pv e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f1d3 d7d5', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 9 seldepth 17 multipv 1 score cp 33 nodes 1452 nps 484000 hashfull 0 tbhits 0 time 3 pv e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f1d3 d7d5', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 10 seldepth 12 multipv 1 score cp 33 nodes 1526 nps 508666 hashfull 0 tbhits 0 time 3 pv e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f1d3 d7d5 f3e5 b8d7', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 11 seldepth 15 multipv 1 score cp 33 nodes 1648 nps 549333 hashfull 0 tbhits 0 time 3 pv e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f1d3 d7d5 f3e5 b8d7 e5d7 c8d7 e1g1', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 12 seldepth 17 multipv 1 score cp 33 nodes 2006 nps 401200 hashfull 0 tbhits 0 time 5 pv e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f1d3 d7d5 f3e5 b8d7 e5d7 c8d7 e1g1 f8e7 c2c4', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 13 seldepth 19 multipv 1 score cp 33 nodes 2394 nps 478800 hashfull 0 tbhits 0 time 5 pv e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f1d3 d7d5 f3e5 b8d7 e5d7 c8d7 e1g1 f8e7 c2c4 c7c6 c4d5', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 14 seldepth 22 multipv 1 score cp 33 nodes 4363 nps 436300 hashfull 2 tbhits 0 time 10 pv e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f1d3 d7d5 f3e5 b8d7 e5d7 c8d7 e1g1 f8e7 c2c4 c7c6 c4d5 c6d5 b1c3 e4f6', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 15 seldepth 24 multipv 1 score cp 33 nodes 5130 nps 466363 hashfull 2 tbhits 0 time 11 pv e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f1d3 d7d5 f3e5 b8d7 e5d7 c8d7 e1g1 f8e7 c2c4 c7c6 c4d5 c6d5 b1c3 e4c3', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 16 seldepth 27 multipv 1 score cp 36 nodes 46311 nps 399232 hashfull 20 tbhits 0 time 116 pv e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 b7b5 a4b3 c8b7 c2c3 f6e4', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 17 seldepth 24 multipv 1 score cp 35 nodes 66577 nps 405957 hashfull 28 tbhits 0 time 164 pv e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 d6d5 f1d3 f8d6 c2c4 d6b4 e1f1 c7c6 b1c3 e4c3 d1e1 d8e7', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 18 seldepth 24 multipv 1 score cp 35 nodes 104081 nps 379857 hashfull 47 tbhits 0 time 274 pv e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 c2c3 f8e7', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 19 seldepth 30 multipv 1 score cp 34 nodes 165243 nps 381623 hashfull 77 tbhits 0 time 433 pv e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 g8f6 d4c6 b7c6 f1d3 d7d5 e4e5 f6d7 e1g1 f8e7 d1g4 g7g6 g4g3 e8g8 c1h6 f8e8 f2f4', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 20 seldepth 29 multipv 1 score cp 33 nodes 190638 nps 379756 hashfull 89 tbhits 0 time 502 pv e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 g8f6 d4c6 b7c6 f1d3 d7d5 e4e5 f6d7 e1g1 d7c5 b1d2 a7a5 d2f3 c5d3 c2d3 f8e7 f3d4 c6c5 d4c6 d8d7 c6e7', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+Exception parsing pv from info: 'depth 21 seldepth 32 multipv 1 score cp 33 lowerbound nodes 350695 nps 349646 hashfull 161 tbhits 0 time 1003 pv e2e4', position at root: rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+UciAnalysisCommand failed after returning preliminary result (<Future finished result=<chess.engine...t 0x1071901c0>>)
+protocol: <UciProtocol (pid=3285)>
+transport: <_UnixSubprocessTransport pid=3285 running stdin=<_UnixWritePipeTransport fd=77 idle bufsize=0> stdout=<_UnixReadPipeTransport fd=78 polling>>
+Traceback (most recent call last):
+  File "/Users/alankritverma/miniconda3/envs/CSSLAB/lib/python3.8/site-packages/chess/engine.py", line 1965, in _parse_uci_bestmove
+    move = board.push_uci(tokens[0].lower())
+  File "/Users/alankritverma/miniconda3/envs/CSSLAB/lib/python3.8/site-packages/chess/__init__.py", line 3164, in push_uci
+    move = self.parse_uci(uci)
+  File "/Users/alankritverma/miniconda3/envs/CSSLAB/lib/python3.8/site-packages/chess/__init__.py", line 3147, in parse_uci
+    raise IllegalMoveError(f"illegal uci: {uci!r} in {self.fen()}")
+chess.IllegalMoveError: illegal uci: 'e2e4' in rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alankritverma/miniconda3/envs/CSSLAB/lib/python3.8/site-packages/chess/engine.py", line 1386, in _line_received
+    self.line_received(engine, line)
+  File "/Users/alankritverma/miniconda3/envs/CSSLAB/lib/python3.8/site-packages/chess/engine.py", line 1818, in line_received
+    self._bestmove(engine, line.split(" ", 1)[1])
+  File "/Users/alankritverma/miniconda3/envs/CSSLAB/lib/python3.8/site-packages/chess/engine.py", line 1841, in _bestmove
+    best = _parse_uci_bestmove(engine.board, arg)
+  File "/Users/alankritverma/miniconda3/envs/CSSLAB/lib/python3.8/site-packages/chess/engine.py", line 1967, in _parse_uci_bestmove
+    raise EngineError(err)
+chess.engine.EngineError: illegal uci: 'e2e4' in rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1

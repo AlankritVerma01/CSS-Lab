@@ -38,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Classic Puzzles/classic_puzzles.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/TransMono_results.csv">
           <value>
             <Attribute>

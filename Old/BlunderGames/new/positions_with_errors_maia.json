@@ -1,0 +1,24 @@
+{
+    "FIDE World Championship Match 1986": [
+        {
+            "FEN": "1r6/5kb1/2bPp3/r1p1Pp2/2P2B2/3N1P2/p1RK2P1/R7 b - - 8 31",
+            "Average Error": 5.23421052631579,
+            "Event": "FIDE World Championship Match 1986",
+            "Move": "b8a8",
+            "Best Move": "b8b1",
+            "Player": "Black",
+            "To Move": "Black",
+            "White": "Karpov, Anatoly",
+            "Black": "Kasparov, Garry",
+            "Round": "5",
+            "Result": "1-0",
+            "WhiteElo": "2705",
+            "BlackElo": "2740",
+            "Opening": "Gr\u00fcnfeld Defense: Brinckmann Attack",
+            "File": "analysis_pgns_test/4S5UuAGn---1986 Karpov vs. Kasparov III.pgn",
+            "Initial Image": "chess_images/FIDE_World_Championship_Match_1986_pos_1_initial.png",
+            "Blunder Image": "chess_images/FIDE_World_Championship_Match_1986_pos_1_blunder.png",
+            "Correct Move Image": "chess_images/FIDE_World_Championship_Match_1986_pos_1_correct.png"
+        }
+    ]
+}

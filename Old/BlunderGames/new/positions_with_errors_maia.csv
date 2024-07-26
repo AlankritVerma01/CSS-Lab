@@ -1,0 +1,2 @@
+FEN,Average Error,Event,Move,Best Move,Player,To Move,White,Black,Round,Result,WhiteElo,BlackElo,Opening,File
+1r6/5kb1/2bPp3/r1p1Pp2/2P2B2/3N1P2/p1RK2P1/R7 b - - 8 31,5.23421052631579,FIDE World Championship Match 1986,b8a8,b8b1,Black,Black,"Karpov, Anatoly","Kasparov, Garry",5,1-0,2705,2740,Grünfeld Defense: Brinckmann Attack,analysis_pgns_test/4S5UuAGn---1986 Karpov vs. Kasparov III.pgn

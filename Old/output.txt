@@ -1,0 +1,48 @@
+---------------------------------------------------------------------------
+TimeoutError                              Traceback (most recent call last)
+Cell In[17], line 8
+      6 all_blunders = []
+      7 for game in all_games:
+----> 8     blunders = analyze_with_engines(game, stockfish_engine, maia_engines)
+      9     filtered_blunders = filter_best_blunders(blunders)
+     10     if filtered_blunders:
+
+Cell In[10], line 15, in analyze_with_engines(game, stockfish_engine, maia_engines)
+     12 board.push(move)
+     14 # Analyze the position after the move
+---> 15 stockfish_info_after = stockfish_engine.analyse(board, chess.engine.Limit(time=0.1))
+     16 stockfish_eval_after = stockfish_info_after["score"].relative.score(mate_score=10000) / 100.0
+     17 stockfish_best_move_after = stockfish_info_after["pv"][0] if "pv" in stockfish_info_after else None
+
+File ~/miniconda3/envs/CSSLAB/lib/python3.8/site-packages/chess/engine.py:2996, in SimpleEngine.analyse(self, board, limit, multipv, game, info, root_moves, options)
+   2992     coro = asyncio.wait_for(
+   2993         self.protocol.analyse(board, limit, multipv=multipv, game=game, info=info, root_moves=root_moves, options=options),
+   2994         self._timeout_for(limit))
+   2995     future = asyncio.run_coroutine_threadsafe(coro, self.protocol.loop)
+-> 2996 return future.result()
+
+File ~/miniconda3/envs/CSSLAB/lib/python3.8/concurrent/futures/_base.py:444, in Future.result(self, timeout)
+    442     raise CancelledError()
+    443 elif self._state == FINISHED:
+--> 444     return self.__get_result()
+    445 else:
+    446     raise TimeoutError()
+
+File ~/miniconda3/envs/CSSLAB/lib/python3.8/concurrent/futures/_base.py:389, in Future.__get_result(self)
+    387 if self._exception:
+    388     try:
+--> 389         raise self._exception
+    390     finally:
+    391         # Break a reference cycle with the exception in self._exception
+    392         self = None
+
+File ~/miniconda3/envs/CSSLAB/lib/python3.8/asyncio/tasks.py:501, in wait_for(fut, timeout, loop)
+    497         # We must ensure that the task is not running
+    498         # after wait_for() returns.
+    499         # See https://bugs.python.org/issue32751
+    500         await _cancel_and_wait(fut, loop=loop)
+--> 501         raise exceptions.TimeoutError()
+    502 finally:
+    503     timeout_handle.cancel()
+
+TimeoutError:

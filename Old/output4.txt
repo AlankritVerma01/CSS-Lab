@@ -1,0 +1,91 @@
+Event: World Championship Match 1910
+Illegal move b5b8 in position Rr6/2k3p1/Q4p2/2qp2p1/2p3P1/7P/5PK1/8 w - - 6 56
+Position: Rr6/2k3p1/Q4p2/2qp2p1/2p3P1/7P/5PK1/8 w - - 6 56
+Blunder: b5b8
+Stockfish Evaluation: 3.67
+Stockfish Suggested Move: a8a7
+Maia 1100 Evaluation: -0.19, Suggested Move: a8a7
+Maia 1200 Evaluation: 0.0, Suggested Move: a8a7
+Maia 1300 Evaluation: -1.28, Suggested Move: a8a7
+Maia 1400 Evaluation: -0.34, Suggested Move: a8a7
+Maia 1500 Evaluation: -1.16, Suggested Move: a8a7
+Maia 1600 Evaluation: -0.52, Suggested Move: a8a7
+Maia 1700 Evaluation: 0.77, Suggested Move: a8a7
+Maia 1800 Evaluation: -2.29, Suggested Move: a8a7
+Maia 1900 Evaluation: -1.44, Suggested Move: a8a7
+Initial Image: chess_images/World_Championship_Match_1910_pos_0_initial.png
+Blunder Image: chess_images/World_Championship_Match_1910_pos_0_blunder.png
+Correct Move Image: chess_images/World_Championship_Match_1910_pos_0_correct.png
+
+Illegal move d8c8 in position 1rk5/6R1/1q3p2/3p2p1/2p3P1/Q6P/5PK1/8 w - - 3 59
+Position: 1rk5/6R1/1q3p2/3p2p1/2p3P1/Q6P/5PK1/8 w - - 3 59
+Blunder: d8c8
+Stockfish Evaluation: 99.97
+Stockfish Suggested Move: a3f8
+Maia 1100 Evaluation: 5.12, Suggested Move: a3f8
+Maia 1200 Evaluation: 2.82, Suggested Move: g7g8
+Maia 1300 Evaluation: 4.11, Suggested Move: a3f8
+Maia 1400 Evaluation: 3.34, Suggested Move: a3f8
+Maia 1500 Evaluation: 5.99, Suggested Move: a3f8
+Maia 1600 Evaluation: 2.7, Suggested Move: a3f8
+Maia 1700 Evaluation: 3.76, Suggested Move: a3f8
+Maia 1800 Evaluation: 3.22, Suggested Move: a3f8
+Maia 1900 Evaluation: 4.33, Suggested Move: a3f8
+Initial Image: chess_images/World_Championship_Match_1910_pos_1_initial.png
+Blunder Image: chess_images/World_Championship_Match_1910_pos_1_blunder.png
+Correct Move Image: chess_images/World_Championship_Match_1910_pos_1_correct.png
+
+Event: World Championship Match 1910
+Illegal move f7e8 in position 4k3/p3p1q1/3n4/3R4/K7/PQ6/8/8 w - - 2 54
+Position: 4k3/p3p1q1/3n4/3R4/K7/PQ6/8/8 w - - 2 54
+Blunder: f7e8
+Stockfish Evaluation: 1.56
+Stockfish Suggested Move: b3b8
+Maia 1100 Evaluation: 2.61, Suggested Move: b3b8
+Maia 1200 Evaluation: 1.92, Suggested Move: b3b8
+Maia 1300 Evaluation: 1.82, Suggested Move: b3b8
+Maia 1400 Evaluation: 2.77, Suggested Move: b3b8
+Maia 1500 Evaluation: 4.62, Suggested Move: b3b8
+Maia 1600 Evaluation: 4.23, Suggested Move: b3b8
+Maia 1700 Evaluation: 2.2, Suggested Move: b3b8
+Maia 1800 Evaluation: 1.9, Suggested Move: b3b8
+Maia 1900 Evaluation: 1.35, Suggested Move: b3b8
+Initial Image: chess_images/World_Championship_Match_1910_pos_0_initial.png
+Blunder Image: chess_images/World_Championship_Match_1910_pos_0_blunder.png
+Correct Move Image: chess_images/World_Championship_Match_1910_pos_0_correct.png
+
+Illegal move d7b7 in position 8/1q2pk2/3n4/3R4/3Q4/PK6/8/8 w - - 5 58
+Position: 8/1q2pk2/3n4/3R4/3Q4/PK6/8/8 w - - 5 58
+Blunder: d7b7
+Stockfish Evaluation: 2.54
+Stockfish Suggested Move: b3a2
+Maia 1100 Evaluation: 0.88, Suggested Move: b3a2
+Maia 1200 Evaluation: 0.95, Suggested Move: b3a2
+Maia 1300 Evaluation: 1.44, Suggested Move: b3a2
+Maia 1400 Evaluation: 0.95, Suggested Move: b3a2
+Maia 1500 Evaluation: 1.43, Suggested Move: b3a2
+Maia 1600 Evaluation: 1.92, Suggested Move: b3a2
+Maia 1700 Evaluation: 1.68, Suggested Move: b3a2
+Maia 1800 Evaluation: 1.64, Suggested Move: b3a2
+Maia 1900 Evaluation: 1.22, Suggested Move: b3a2
+Initial Image: chess_images/World_Championship_Match_1910_pos_1_initial.png
+Blunder Image: chess_images/World_Championship_Match_1910_pos_1_blunder.png
+Correct Move Image: chess_images/World_Championship_Match_1910_pos_1_correct.png
+
+Illegal move a4c2 in position 8/2k1p3/3n4/8/8/P7/K1qR4/8 w - - 0 66
+Position: 8/2k1p3/3n4/8/8/P7/K1qR4/8 w - - 0 66
+Blunder: a4c2
+Stockfish Evaluation: 3.35
+Stockfish Suggested Move: d2c2
+Maia 1100 Evaluation: 0.54, Suggested Move: d2c2
+Maia 1200 Evaluation: 1.69, Suggested Move: d2c2
+Maia 1300 Evaluation: 1.52, Suggested Move: d2c2
+Maia 1400 Evaluation: 1.17, Suggested Move: d2c2
+Maia 1500 Evaluation: 2.25, Suggested Move: d2c2
+Maia 1600 Evaluation: 1.79, Suggested Move: d2c2
+Maia 1700 Evaluation: 1.11, Suggested Move: d2c2
+Maia 1800 Evaluation: 1.41, Suggested Move: d2c2
+Maia 1900 Evaluation: 2.35, Suggested Move: d2c2
+Initial Image: chess_images/World_Championship_Match_1910_pos_2_initial.png
+Blunder Image: chess_images/World_Championship_Match_1910_pos_2_blunder.png
+Correct Move Image: chess_images/World_Championship_Match_1910_pos_2_correct.png

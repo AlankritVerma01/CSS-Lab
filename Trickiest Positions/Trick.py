@@ -102,8 +102,8 @@ def save_to_json(data, output_file):
         json.dump(data, json_file, indent=4, ensure_ascii=False)
 
 if __name__ == "__main__":
-    pgn_directory_path = "Analysis_pgns_small"
-    json_output_path = "blunders12312111.json"
+    pgn_directory_path = "analysis_pgns"
+    json_output_path = "blunders.json"
 
     all_blunders = process_pgn_files_parallel(pgn_directory_path)
     save_to_json(all_blunders, json_output_path)
